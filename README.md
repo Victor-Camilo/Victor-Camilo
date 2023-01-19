@@ -15,12 +15,12 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Para saber mais sobre o meu conteúdo me segue nas redes abaixo!
  
 <div> 
-  <a href="https://instagram.com/_vitinhocamilo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/_vitinhocamilo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "victorbtu3@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/victor-camilo-3ab7a620a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/victor-camilo-3ab7a620a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Victor-Camilo//Victor-Camilo/blob/output/github-contribution-grid-snake.svg)
 
